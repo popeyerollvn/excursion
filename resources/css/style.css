@@ -2,6 +2,7 @@
     background-color: black;
     border: 0;
     margin: 0;
+    color: white
 }*
 h1 {
     margin-top:30px;
@@ -17,4 +18,27 @@ h3{
 a {
     color : aquamarine;
     font-size:16px;
+}
+p{
+   text-align: center;
+   font-family : Verdana;
+    font-size :21px;
+    color :grey;
+
+}
+#imagecamp{
+    margin-top:50px;
+    margin-bottom: 30px;
+}
+h2 {
+    font-family : Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    text-align: center;
+    margin:50px;
+}
+#copyright{
+    float:right;
+    margin-bottom: 30px;
+    margin-right: 5px;
 }
